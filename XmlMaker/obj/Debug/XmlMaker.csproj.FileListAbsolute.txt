@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2015\Projects\XmlMaker\XmlMaker\bin\Debug\XmlMaker.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\XmlMaker\XmlMaker\bin\Debug\XmlMaker.exe
+c:\users\administrator\documents\visual studio 2015\Projects\XmlMaker\XmlMaker\bin\Debug\XmlMaker.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\XmlMaker\XmlMaker\obj\Debug\XmlMaker.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\XmlMaker\XmlMaker\obj\Debug\XmlMaker.exe
+c:\users\administrator\documents\visual studio 2015\Projects\XmlMaker\XmlMaker\obj\Debug\XmlMaker.pdb

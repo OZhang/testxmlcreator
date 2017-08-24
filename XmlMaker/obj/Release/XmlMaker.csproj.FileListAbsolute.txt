@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2015\Projects\XmlMaker\XmlMaker\bin\Release\XmlMaker.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\XmlMaker\XmlMaker\bin\Release\XmlMaker.exe
+c:\users\administrator\documents\visual studio 2015\Projects\XmlMaker\XmlMaker\bin\Release\XmlMaker.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\XmlMaker\XmlMaker\obj\Release\XmlMaker.exe
+c:\users\administrator\documents\visual studio 2015\Projects\XmlMaker\XmlMaker\obj\Release\XmlMaker.pdb
